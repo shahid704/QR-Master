@@ -1,1 +1,1 @@
-Qr Master
+QR Master is a powerful app for creating and scanning QR codes, as well as barcodes and text. It features an OCR module that allows users to accurately recognize text from images. With QR Master, users can easily generate their own codes on the go and scan others with ease. This app is a must-have tool for anyone looking to streamline their QR code and barcode management.
